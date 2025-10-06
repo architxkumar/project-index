@@ -23,3 +23,9 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | Nginx Log Analyser | https://github.com/architxkumar/Nginx-Log-Analyser |
 | GitHub Pages Deployment | https://github.com/architxkumar/gh-deployment-workflow |
 | SSH Remote Server Setup | https://github.com/architxkumar/ssh-remote-server-setup |
+
+## UI/UX Projects
+| Name | Link |
+| --- | --- |
+| Sign up page | https://github.com/user-attachments/assets/a8baf78d-b967-48af-b395-b7cae41d8230 |
+
