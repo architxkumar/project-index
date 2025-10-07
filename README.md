@@ -23,6 +23,7 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | Nginx Log Analyser | https://github.com/architxkumar/Nginx-Log-Analyser |
 | GitHub Pages Deployment | https://github.com/architxkumar/gh-deployment-workflow |
 | SSH Remote Server Setup | https://github.com/architxkumar/ssh-remote-server-setup |
+| Static Site Server | https://github.com/architxkumar/static-site-server |
 
 ## UI/UX Projects
 | Name | Link |
