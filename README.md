@@ -14,6 +14,7 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | GitHub User Acitivity | https://github.com/architxkumar/GitHub-User-Activity |
 | Expense Tracker | https://github.com/architxkumar/Expense-Tracker |
 | Number Guessing | https://github.com/architxkumar/Number-Guessing |
+| Unit Converter | https://github.com/architxkumar/unit-converter |
 
 ## DevOps Projects
 | Name | Link |
