@@ -6,6 +6,7 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | Single-Page CV | https://github.com/architxkumar/oscar-the-grouch-cv |
 | Basic Webpage | https://roadmap.sh/projects/basic-html-website |
 | Personal Portfolio | https://github.com/architxkumar/Personal-Portfolio |
+| Changelog Component | https://github.com/architxkumar/changelog-component |
 
 ## Golang (Backend) Projects
 | Name | Link |
