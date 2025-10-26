@@ -7,6 +7,7 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | Basic Webpage | https://roadmap.sh/projects/basic-html-website |
 | Personal Portfolio | https://github.com/architxkumar/Personal-Portfolio |
 | Changelog Component | https://github.com/architxkumar/changelog-component |
+| Flashcard | https://github.com/architxkumar/flashcard |
 
 ## Golang (Backend) Projects
 | Name | Link |
@@ -16,6 +17,7 @@ A compilation of the projects that I have completed so far from [roadmap.sh](htt
 | Expense Tracker | https://github.com/architxkumar/Expense-Tracker |
 | Number Guessing | https://github.com/architxkumar/Number-Guessing |
 | Unit Converter | https://github.com/architxkumar/unit-converter |
+| Blogging Platform API | https://github.com/architxkumar/Blogging-Platform-API |
 
 ## DevOps Projects
 | Name | Link |
